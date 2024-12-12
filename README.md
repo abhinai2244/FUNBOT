@@ -15,8 +15,8 @@ A fun Telegram bot that can interact with users by sharing jokes, fun facts, and
    Clone the repository to your local machine.
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   [git clone <repository-url](https://github.com/abhinai2244/FUNBOT.git)>
+   
 Install Dependencies You need Python 3.7 or higher installed on your system. Install the required libraries using pip.
 
 bash
@@ -100,8 +100,7 @@ Contact
 If you have any questions or issues, please contact the bot owner:
 
 Telegram Username: @clutch008
-kotlin
-Copy code
+
 
 ### Instructions for New Users:
 - This `README.md` will guide them through setting up the bot, using it, and understanding the key features like jokes, fun facts, and the Rock-Paper-Scissors game.
