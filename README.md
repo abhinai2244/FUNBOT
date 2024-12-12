@@ -105,12 +105,10 @@ Security: Ensure that the encryption key provided during the encryption process 
 Admin Access: Only the admin ID specified in the code can access administrative commands.
 Error Handling: If the bot encounters unexpected input, it will gracefully handle it by resetting the user's mode.
 Contact
-For issues or feature requests, please contact the bot developer.
+For issues or feature requests, please contact the bot developer. 
+## contact telegram : @clutch008
 
-sql
-Copy code
 
-This `README.md` contains detailed setup instructions, usage, and examples for both the user and the admin, along with all the necessary steps to get started with your Cryptography Bot. You can copy and paste it into your GitHub repository.
 
 
 
